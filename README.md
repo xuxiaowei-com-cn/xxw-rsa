@@ -1,5 +1,12 @@
 # xxw
 
+<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE">
+    <img alt="License-Anti" src="https://img.shields.io/badge/License-Anti 996-blue.svg">
+</a>
+<a href="https://996.icu/#/zh_CN">
+    <img alt="Link-996" src="https://img.shields.io/badge/Link-996.icu-red.svg">
+</a>
+
 | 名称 | 说明 |
 |  ----  | ----  |
 | 旧网址 | https://oss.sonatype.org |
