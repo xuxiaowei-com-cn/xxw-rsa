@@ -16,7 +16,8 @@
 | 提取公钥 | gpg -a --export newkey > new-public-key.asc |
 | 提取私钥 | gpg -a --export-secret-keys newkey > new-private-key.asc |
 | 导入公钥或私钥  | gpg --import newkey |
-| 镜像仓库 | https://s01.oss.sonatype.org/content/repositories/snapshots |
+| 单文件签名 | gpg --armor --detach-sign |
+| 快照仓库 | https://s01.oss.sonatype.org/content/repositories/snapshots |
 | 生产仓库 | https://s01.oss.sonatype.org/content/repositories/releases |
 
 ```
