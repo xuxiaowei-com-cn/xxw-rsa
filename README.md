@@ -1,6 +1,6 @@
 # xxw
 
-|     |   |
+| 名称 | 说明 |
 |  ----  | ----  |
 | 旧网址 | https://oss.sonatype.org |
 | 新网址 | https://s01.oss.sonatype.org |
